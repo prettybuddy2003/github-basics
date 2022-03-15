@@ -5,3 +5,5 @@ branch
 origin
 fork
 fetch
+clone
+upstream
